@@ -48,6 +48,6 @@ project-folder/
 **Siddique Afridi**  
 Frontend Developer | JavaScript Enthusiast  
 📧 sadeeqalikhan2@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/siddique-afridi-6369b0300?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app) 
+🔗 [LinkedIn](linkedin.com/in/siddique-afridi-6369b0300) 
     [GitHub](https://github.com/coder-x7)
 
