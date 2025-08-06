@@ -51,5 +51,3 @@ Frontend Developer | JavaScript Enthusiast
 🔗 [LinkedIn](https://www.linkedin.com/in/siddique-afridi-6369b0300?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app) 
     [GitHub](https://github.com/coder-x7)
 
-📧 sadeeqalikhan2@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/your-profile) | [GitHub](https://github.com/yourusername)
