@@ -1,0 +1,53 @@
+ body {
+     font-family: Arial, sans-serif;
+     background-image: linear-gradient(to left,rgb(12, 121, 198), rgb(47, 143, 212), rgb(77, 155, 210));
+     display: flex;
+     justify-content: center;
+     align-items: center;
+     height: 100vh;
+ }
+
+ .logo {
+     position: absolute;
+     top: 40px;
+     left: 200px;
+
+ }
+
+ .calculator {
+     background:rgb(247, 245, 245);
+     padding: 20px;
+     border-radius: 10px;
+     box-shadow: 0px 4px 12px rgba(0, 0, 0, 0.2);
+ }
+
+ input,
+ select,
+ button {
+     padding: 10px;
+     margin: 5px 0;
+     width: 95%;
+     font-size: 16px;
+ }
+
+ .calculator select,
+ button {
+     width: 99%;
+ }
+
+ button {
+     background: rgb(77, 155, 210);
+     color: white;
+     border: none;
+     cursor: pointer;
+ }
+
+ button:hover {
+     background: #45a049;
+ }
+
+ .result {
+     margin-top: 10px;
+     font-size: 18px;
+     font-weight: bold;
+ }
